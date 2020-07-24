@@ -1,4 +1,4 @@
-# Desafio Bravo
+# CurrencyApp
 
 API para conversão de moedas desenvolvida com NodeJS me Typescript para o desafio do Hurb.
 
